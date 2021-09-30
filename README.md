@@ -9,7 +9,7 @@
 <img src="https://www.linkpicture.com/q/PicsArt_10-01-01.55.50.jpg" alt="GIF" width="300" height="250"/>
 </p>
   <p align="center">
-<a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/MONSTER-Psyco--mowl-blue%26style"></a>
+<a href="https://github.com/Monsterlallu"><img title="Author" src="https://img.shields.io/badge/MONSTER-Psyco--mowl-blue%26style"></a>
 </p>
 </div>
 <p align="center">
