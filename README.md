@@ -48,8 +48,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/cyberchekuthan/Amalser_v2
-$ cd Amalser_v2
+$ git clone https://github.com/Monsterlallu/Psyco-mowl.git
+$ cd Psyco-mowl
 $ npm i
 $ node julie.js
 ```
