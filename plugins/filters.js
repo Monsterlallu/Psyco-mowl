@@ -89,7 +89,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./Amalserv2/menti
         }
         if (!!message.mention && message.mention[0] == '919995563684@s.whatsapp.net') {
 
-await message.client.sendMessage(message.jid, fs.readFileSync('./Amalserv2/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
+await message.client.sendMessage(message.jid, fs.readFileSync('./Amalserv2/Safiya.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
 
         }
         if (!!message.mention && message.mention[0] == Config.MENTION) {
