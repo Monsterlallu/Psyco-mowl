@@ -30,7 +30,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*Psyco-Mowl by Monster lallu 💌 Amal*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*Psyco-Mowl by Monster lallu 💌 KCH*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.OWNER + '\n\n--------------------', MessageType.text);
